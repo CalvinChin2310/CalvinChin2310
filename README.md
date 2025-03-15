@@ -1,4 +1,8 @@
+![profilepicture](https://github.com/user-attachments/assets/6e1ae7c0-5f71-4202-9a6a-d25e0c1b64d1)
+
+
 ## Hi there 👋
+
 
 <!--
 **CalvinChin2310/CalvinChin2310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
