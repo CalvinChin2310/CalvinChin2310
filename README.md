@@ -1,3 +1,6 @@
+<img src="profilepicture.jpg" alt="Profile Picture" width="200">
+
+
 
 
 
